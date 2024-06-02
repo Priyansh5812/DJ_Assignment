@@ -6,7 +6,6 @@ using UnityEngine;
 public class SwingDriver : MonoBehaviour
 {
 
-    private static HittableFactory fact = null;
     private Swing swing = null;
     [SerializeField] private SwingType type;
 
@@ -29,22 +28,21 @@ public class SwingDriver : MonoBehaviour
 
     private void OnEnable()
     {
-        if(fact == null)
-            fact = new HittableFactory();
+
 
         switch (type)
         {
             case SwingType.MERRY_GO_ROUND:
-                swing = new Merry_Go_Round(rotationSpeed, isClockwise , (rotationObject == null) ? (this.transform) : (rotationObject) ,fact);
+                swing = new Merry_Go_Round(rotationSpeed, isClockwise , (rotationObject == null) ? (this.transform) : (rotationObject));
                 break;
             case SwingType.WHEEL:
-                swing = new Wheel(wheelAnim ,fact);
+                swing = new Wheel(wheelAnim);
                 break;
             case SwingType.UMBRELLA:
-                swing = new Umbrella(rotationSpeed, isClockwise, (rotationObject == null) ? (this.transform) : (rotationObject), fact);
+                swing = new Umbrella(rotationSpeed, isClockwise, (rotationObject == null) ? (this.transform) : (rotationObject));
                 break;
             case SwingType.SHOW:
-                swing = new Show(moveSpeed , showPlacePointHolder, fact);
+                swing = new Show(moveSpeed , showPlacePointHolder);
                 break;
             default:
                 break;
@@ -70,11 +68,6 @@ public class SwingDriver : MonoBehaviour
         swing.DisableSwing();
     }
 
-
-
-
-
-    public HittableFactory GetFactory() => fact;
     public SwingType GetSwingType() => type;
 
 

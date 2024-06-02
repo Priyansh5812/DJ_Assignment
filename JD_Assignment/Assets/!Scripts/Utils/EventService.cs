@@ -20,13 +20,14 @@ public class ProjectileEvent
 	
     private ProjectileEvent()
 	{
+        onProjectileHit = new();
 		onGrabProjectile = new();
 		onReleaseProjectile = new();
 	}
-	
-	
-	//---------- Events----------
-	
+
+
+    //---------- Events----------
+    public EventController<int> onProjectileHit;
 	public EventController<bool> onGrabProjectile;
 	public EventController<bool> onReleaseProjectile;
 

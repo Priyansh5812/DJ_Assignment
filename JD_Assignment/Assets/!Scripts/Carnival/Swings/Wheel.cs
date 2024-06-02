@@ -6,7 +6,7 @@ using UnityEngine;
 public class Wheel : Swing
 {
     private Animator anim;
-    public Wheel(Animator anim, HittableFactory fact) : base(fact)
+    public Wheel(Animator anim) : base()
     {
         this.anim = anim;
     }

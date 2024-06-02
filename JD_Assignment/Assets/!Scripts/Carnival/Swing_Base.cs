@@ -4,12 +4,11 @@ using System.Collections.Generic;
 [System.Serializable]
 public abstract class Swing
 {
-    protected HittableFactory factory;
+
     protected List<PlacePoint> placePoints; // TODO: PlacePoint.cs
 
-    protected Swing(HittableFactory factory)
+    protected Swing()
     {
-        this.factory = factory;
         placePoints = new List<PlacePoint>();
     }
 

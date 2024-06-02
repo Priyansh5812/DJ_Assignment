@@ -6,6 +6,7 @@ using UnityEngine.XR.Interaction.Toolkit;
 public class ProjectileGrabInteractable : XRGrabInteractable
 {
 
+    [SerializeField] CatapultView view;
 
     protected override void OnSelectEntered(SelectEnterEventArgs args)
     {
@@ -20,7 +21,8 @@ public class ProjectileGrabInteractable : XRGrabInteractable
         base.OnSelectExited(args);
 
         ProjectileEvent.Service.onReleaseProjectile.InvokeEvent(false);
-        
+
+
     }
 
 

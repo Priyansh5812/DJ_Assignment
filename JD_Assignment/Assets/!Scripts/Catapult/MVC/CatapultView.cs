@@ -7,10 +7,9 @@ public class CatapultView : MonoBehaviour
 {
 
     public Transform System { get; private set; }
-    private CatapultController controller = null;
+    public CatapultController controller = null;
     private SkinnedMeshRenderer m_Renderer;
     private LineRenderer ribbon_Renderer;
-    
     private ViewEventSystem controller_Runtime = null;
     public ViewEventSystem ControllerRuntime
     {
@@ -31,6 +30,8 @@ public class CatapultView : MonoBehaviour
     public int maxPoints;
 
     #endregion
+
+
 
 
     public void SetController(CatapultController controller)
@@ -62,7 +63,14 @@ public class CatapultView : MonoBehaviour
         //---------------------------
         controller.Model.Projectile.position = ((controller.Model.LeftKnot.position + controller.Model.RightKnot.position) / 2);
         //---------------------------
+        ProjectileEvent.Service.onReleaseProjectile.AddListener(ToggleTrajectory);
+        ProjectileEvent.Service.onGrabProjectile.AddListener(ToggleTrajectory);
+        //---------------------------
         OnToggleCatapult(false);
+        ToggleTrajectory(false);
+       
+
+
     }
 
     // Update is called once per frame
@@ -70,10 +78,7 @@ public class CatapultView : MonoBehaviour
     {   
         // Runtime Invocation for Controller Logic Executions (if any)
         controller_Runtime?.InvokeListener();
-
         UpdateCatapultribbon_Renderer();
-
-        PredictTrajectory();
     }
 
     private void UpdateCatapultribbon_Renderer()
@@ -101,29 +106,8 @@ public class CatapultView : MonoBehaviour
 
     #region Trajectory
 
-    public void PredictTrajectory()
-    {
-        //Vector3 velocity = _trajectoryProps.direction * (_trajectoryProps.initialSpeed / _trajectoryProps.mass); // direction * speed per mass
-        Vector3 velocity = controller.GetInitialDirection() * (_trajectoryProps.initialSpeed / _trajectoryProps.mass); // direction * speed per mass
-        Vector3 position = controller.Model.Projectile.position;
-        Vector3 nextPosition;
-        float overlap;
-        UpdateLineRenderer(maxPoints, (0, position)); // Setting initial pos  for line renderer
-        for (int i = 1; i < maxPoints; i++)
-        {
-            velocity = controller.CalculateVelocity(velocity, _trajectoryProps.drag); // Adding effect of gravity and Air drag
-            nextPosition = position + velocity * 0.01333f;
-            overlap = Vector3.Distance(position, nextPosition) * rayOverlap;
-            if (Physics.Raycast(position, velocity.normalized, out RaycastHit hit, overlap))
-            {
-                UpdateLineRenderer(i, (i - 1, hit.point));
-                break;
-            }
-            position = nextPosition;
-            UpdateLineRenderer(maxPoints, (i, position));
-        }
 
-    }
+    
 
     public void UpdateLineRenderer(int maxPoints, (int ind, Vector3 position) PointPos)
     {
@@ -131,14 +115,13 @@ public class CatapultView : MonoBehaviour
         _lr.SetPosition(PointPos.ind, PointPos.position);
     }
 
-    private void ToggleTrajectory()
-    { 
-        
+    private void ToggleTrajectory(bool val)
+    {
+        _lr.enabled = val;
     }
 
     #endregion
 
-    //WILL THIS BE USED,Try not to
     public class ViewEventSystem
     {
         private event Action runtime;
@@ -147,6 +130,15 @@ public class CatapultView : MonoBehaviour
         public void RemoveListener(Action action) => runtime -= action; 
         public void InvokeListener() => runtime?.Invoke();  
 
+    }
+
+    public IEnumerator NextProjectileLaunchTimeout()
+    {
+        controller.Model.Projectile.GetComponent<MeshRenderer>().enabled = false;
+        controller.Model.Projectile.GetComponent<ProjectileGrabInteractable>().enabled = false;
+        yield return new WaitForSeconds(1f);
+        controller.Model.Projectile.GetComponent<MeshRenderer>().enabled = true;
+        controller.Model.Projectile.GetComponent<ProjectileGrabInteractable>().enabled = true;
     }
 
     

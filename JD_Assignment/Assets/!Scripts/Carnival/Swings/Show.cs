@@ -6,7 +6,7 @@ public class Show : Swing
 {
     private float moveSpeed;
     private Transform placePointHolder;
-    public Show(float moveSpeed , Transform placePointHolder, HittableFactory fact ) : base(fact)
+    public Show(float moveSpeed , Transform placePointHolder) : base()
     {   
         this.moveSpeed = moveSpeed;
         this.placePointHolder = placePointHolder;

@@ -9,7 +9,7 @@ public class Umbrella : Swing
     private Transform rotationObject;
 
 
-    public Umbrella(float rotationSpeed, bool isClockwise, Transform rotationObject, HittableFactory fact) : base(fact)
+    public Umbrella(float rotationSpeed, bool isClockwise, Transform rotationObject) : base()
     {
         this.rotationSpeed = rotationSpeed;
         this.isClockwise = isClockwise;

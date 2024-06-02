@@ -6,6 +6,7 @@ public class CatapultSpawner : MonoBehaviour
     [SerializeField] private CatapultView m_catapultPrefab;
 	[SerializeField] private StaticHandGesture grabGesture;
     [SerializeField] private ProjectileProperties projectileProperties;
+    [SerializeField] private Projectile projectilePrefab;
     void Start()
     {
         SpawnCatapult();
@@ -13,7 +14,7 @@ public class CatapultSpawner : MonoBehaviour
 	
 	private void SpawnCatapult()
 	{
-		CatapultModel model = new CatapultModel(projectileProperties , this.transform, grabGesture);
+		CatapultModel model = new CatapultModel(projectileProperties , this.transform, grabGesture , projectilePrefab);
 		CatapultController controller = new CatapultController(model , m_catapultPrefab);
 	}
 
@@ -24,18 +25,23 @@ public class CatapultSpawner : MonoBehaviour
 
 public struct ProjectileProperties
 {
-    public Vector3 direction;
+    [Header("Projectile")]
     public float initialSpeed;
-    public Vector3 initialPos;
     public float mass, drag;
 
-    public ProjectileProperties(Vector3 dir, float speed, Vector3 pos, float mass, float drag)
+    [Header("Trajectory")]
+    public int maxPoints;
+    public float rayOverlap;
+
+    public ProjectileProperties(Vector3 dir, float speed, Vector3 pos, float mass, float drag, int maxPoints, float rayOverlap)
     {
-        this.direction = dir;
         this.initialSpeed = speed;
-        this.initialPos = pos;
         this.mass = mass;
         this.drag = drag;
+        this.maxPoints = maxPoints;
+        this.rayOverlap = rayOverlap;
     }
 }
+
+
 #endregion

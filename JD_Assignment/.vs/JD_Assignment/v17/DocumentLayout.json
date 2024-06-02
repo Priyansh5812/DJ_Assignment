@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|d:\\learn\\repos\\dj_assignment\\jd_assignment\\assets\\!scripts\\catapult\\mvc\\catapultview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\mvc\\catapultview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD345B6B-B1F0-E449-F36B-F00630B45429}|Unity.XR.Hands.Samples.Gestures.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\samples\\xr hands\\1.4.1\\gestures\\examples\\scripts\\statichandgesture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD345B6B-B1F0-E449-F36B-F00630B45429}|Unity.XR.Hands.Samples.Gestures.csproj|solutionrelative:assets\\samples\\xr hands\\1.4.1\\gestures\\examples\\scripts\\statichandgesture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\catapultspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\catapultspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|d:\\learn\\repos\\dj_assignment\\jd_assignment\\assets\\!scripts\\ui\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\ui\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\mvc\\catapultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\mvc\\catapultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\projectilepooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\projectilepooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\projectile\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\projectile\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\mvc\\catapultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\mvc\\catapultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\customxr\\projectilegrabinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\customxr\\projectilegrabinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\mvc\\catapultview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\mvc\\catapultview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|d:\\learn\\repos\\dj_assignment\\jd_assignment\\assets\\!scripts\\utils\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\utils\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\catapultspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\catapultspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,46 +42,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\UI\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\!Scripts\\UI\\ScoreManager.cs",
+              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\UI\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\!Scripts\\UI\\ScoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:19:05.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticHandGesture.cs",
+              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\Samples\\XR Hands\\1.4.1\\Gestures\\Examples\\Scripts\\StaticHandGesture.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Hands\\1.4.1\\Gestures\\Examples\\Scripts\\StaticHandGesture.cs",
+              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\Samples\\XR Hands\\1.4.1\\Gestures\\Examples\\Scripts\\StaticHandGesture.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Hands\\1.4.1\\Gestures\\Examples\\Scripts\\StaticHandGesture.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAD4v88AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:59:40.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EventService.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Utils\\EventService.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\Utils\\EventService.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Utils\\EventService.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\Utils\\EventService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowBAAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T19:15:31.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProjectileGrabInteractable.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\CustomXR\\ProjectileGrabInteractable.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\CustomXR\\ProjectileGrabInteractable.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\CustomXR\\ProjectileGrabInteractable.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\CustomXR\\ProjectileGrabInteractable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T18:24:18.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "CatapultModel.cs",
               "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultModel.cs",
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\MVC\\CatapultModel.cs",
               "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultModel.cs",
               "RelativeToolTip": "Assets\\!Scripts\\Catapult\\MVC\\CatapultModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAApAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwA8AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T12:11:17.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T20:01:22.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectilePooler.cs",
+              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\ProjectilePooler.cs",
+              "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\ProjectilePooler.cs",
+              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\ProjectilePooler.cs",
+              "RelativeToolTip": "Assets\\!Scripts\\Catapult\\ProjectilePooler.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwDoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:07:20.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\Projectile\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\Projectile\\Projectile.cs",
+              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\Projectile\\Projectile.cs",
+              "RelativeToolTip": "Assets\\!Scripts\\Catapult\\Projectile\\Projectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:18:21.425Z"
             },
             {
               "$type": "Document",
@@ -83,36 +114,33 @@
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\MVC\\CatapultController.cs",
               "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultController.cs",
               "RelativeToolTip": "Assets\\!Scripts\\Catapult\\MVC\\CatapultController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAA6wCkAAAAAAAAA",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAqwJ0AAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T14:17:05.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T14:17:05.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "CatapultView.cs",
               "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
               "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
               "RelativeToolTip": "Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAgwCAAAAAOAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwIYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:19:46.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T16:19:46.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CatapultSpawner.cs",
               "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\CatapultSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\CatapultSpawner.cs",
               "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\CatapultSpawner.cs",
               "RelativeToolTip": "Assets\\!Scripts\\Catapult\\CatapultSpawner.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCMAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T11:59:01.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T11:59:01.241Z"
             }
           ]
         }

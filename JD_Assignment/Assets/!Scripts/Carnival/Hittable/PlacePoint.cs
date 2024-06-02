@@ -5,13 +5,21 @@ using UnityEngine;
 
 public class PlacePoint : MonoBehaviour
 {
-    public SwingDriver swingDriver;
-    private HittableFactory fact;
-    
-    void Start()
+
+    [SerializeField] private ParticleSystem _explosion;
+
+
+    private void Start()
     {
-        fact = swingDriver.GetFactory();
+        _explosion = this.GetComponentInChildren<ParticleSystem>();
     }
+
+
+    public void PlayParticleSystem()
+    {   
+        _explosion.Play();
+    }
+
 
 
 }
