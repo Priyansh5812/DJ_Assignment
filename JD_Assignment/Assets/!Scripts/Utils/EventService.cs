@@ -30,8 +30,38 @@ public class ProjectileEvent
     public EventController<int> onProjectileHit;
 	public EventController<bool> onGrabProjectile;
 	public EventController<bool> onReleaseProjectile;
+    
 
     
+
+
+}
+
+
+public class GameEvent
+{
+
+
+    private static GameEvent _service;
+    public static GameEvent Service
+    {
+        get
+        {
+            if (_service == null)
+                _service = new GameEvent();
+
+            return _service;
+        }
+
+    }
+
+    private GameEvent()
+    {
+        onGameEnded = new();
+    }
+
+    public EventController onGameEnded;
+
 
 
 }

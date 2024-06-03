@@ -66,6 +66,12 @@ public class CatapultView : MonoBehaviour
         ProjectileEvent.Service.onReleaseProjectile.AddListener(ToggleTrajectory);
         ProjectileEvent.Service.onGrabProjectile.AddListener(ToggleTrajectory);
         //---------------------------
+        GameEvent.Service.onGameEnded.AddListener(() =>
+        {
+            OnToggleCatapult(false);
+            ToggleTrajectory(false);
+        });
+        //---------------------------
         OnToggleCatapult(false);
         ToggleTrajectory(false);
        
