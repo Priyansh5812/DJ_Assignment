@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuScene.unity
     guid: 6384831e890ccd846be28fd9c42285ff
   - enabled: 1
-    path: Assets/Scenes/MainScene.unity
+    path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d4204411510882e4d85630f9844bda57, type: 2}
