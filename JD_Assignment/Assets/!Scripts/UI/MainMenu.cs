@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class MainMenu : MonoBehaviour
+public class CustomMainMenu : MonoBehaviour
 {
     [SerializeField] private Button btn;
     [SerializeField] private Animator quadAnim;

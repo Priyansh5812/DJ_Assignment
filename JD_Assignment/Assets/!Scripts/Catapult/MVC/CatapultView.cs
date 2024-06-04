@@ -66,11 +66,7 @@ public class CatapultView : MonoBehaviour
         ProjectileEvent.Service.onReleaseProjectile.AddListener(ToggleTrajectory);
         ProjectileEvent.Service.onGrabProjectile.AddListener(ToggleTrajectory);
         //---------------------------
-        GameEvent.Service.onGameEnded.AddListener(() =>
-        {
-            OnToggleCatapult(false);
-            ToggleTrajectory(false);
-        });
+        GameEvent.Service.onGameEnded.AddListener(OnGameEnd);
         //---------------------------
         OnToggleCatapult(false);
         ToggleTrajectory(false);
@@ -147,6 +143,25 @@ public class CatapultView : MonoBehaviour
         controller.Model.Projectile.GetComponent<ProjectileGrabInteractable>().enabled = true;
     }
 
-    
+    private void OnGameEnd()
+    {
+        OnToggleCatapult(false);
+        ToggleTrajectory(false);
+    }
+
+    private void OnDisable()
+    {
+        #region View Subscriptions
+        ProjectileEvent.Service.onReleaseProjectile.RemoveListener(ToggleTrajectory);
+        ProjectileEvent.Service.onGrabProjectile.RemoveListener(ToggleTrajectory);
+        //---------------------------
+        GameEvent.Service.onGameEnded.RemoveListener(OnGameEnd);
+        controller.Model.pooler.ClearQueue();
+        #endregion
+
+        #region Controller Subscriptions
+        controller.RemoveControllerListeners();
+        #endregion
+    }
 
 }

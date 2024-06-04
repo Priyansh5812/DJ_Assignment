@@ -164,19 +164,12 @@ public class CatapultController
     }
 
 
-    ~CatapultController()
+    public void RemoveControllerListeners()
 	{	
 
 		// Removing the Listeners...
-        model.grabGesture.gesturePerformed.RemoveListener(() =>
-        {
-            view.OnToggleCatapult(true);
-        });
-
-        model.grabGesture.gestureEnded.RemoveListener(() =>
-        {
-            view.OnToggleCatapult(false);
-        });
+        model.grabGesture.gesturePerformed.RemoveAllListeners();
+        model.grabGesture.gestureEnded.RemoveAllListeners();
 
 		ProjectileEvent.Service.onReleaseProjectile.RemoveListener(ToggleProjectileGrabState);
         ProjectileEvent.Service.onReleaseProjectile.RemoveListener(LaunchProjectile);

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|d:\\learn\\repos\\dj_assignment\\jd_assignment\\assets\\!scripts\\catapult\\mvc\\catapultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\mvc\\catapultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\mvc\\catapultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\mvc\\catapultview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|d:\\learn\\repos\\dj_assignment\\jd_assignment\\assets\\!scripts\\catapult\\mvc\\catapultview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\mvc\\catapultview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\projectilepooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\projectilepooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\catapultspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\catapultspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\carnival\\swingdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\carnival\\swingdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\ui\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\carnival\\swing_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\carnival\\swingdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\carnival\\swingdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\mvc\\catapultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\mvc\\catapultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\utils\\scenemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\customxr\\xr_recenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\customxr\\xr_recenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\projectilepooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\!scripts\\catapult\\projectilepooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\projectile\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\!scripts\\catapult\\projectile\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\projectile\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\projectile\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +62,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\UI\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\!Scripts\\UI\\MainMenu.cs",
+              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\UI\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\!Scripts\\UI\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T00:05:41.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SceneManagement.cs",
               "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Utils\\SceneManagement.cs",
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Utils\\SceneManagement.cs",
@@ -74,31 +86,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "XR_Recenter.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\CustomXR\\XR_Recenter.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\CustomXR\\XR_Recenter.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\CustomXR\\XR_Recenter.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\CustomXR\\XR_Recenter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T06:28:39.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CatapultSpawner.cs",
               "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\CatapultSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\CatapultSpawner.cs",
               "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\CatapultSpawner.cs",
               "RelativeToolTip": "Assets\\!Scripts\\Catapult\\CatapultSpawner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T11:59:01.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "SwingDriver.cs",
               "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Carnival\\SwingDriver.cs",
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Carnival\\SwingDriver.cs",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ScoreManager.cs",
               "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\UI\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\!Scripts\\UI\\ScoreManager.cs",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CatapultModel.cs",
               "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultModel.cs",
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\MVC\\CatapultModel.cs",
@@ -134,15 +134,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "ProjectilePooler.cs",
               "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\ProjectilePooler.cs",
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\ProjectilePooler.cs",
               "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\ProjectilePooler.cs",
               "RelativeToolTip": "Assets\\!Scripts\\Catapult\\ProjectilePooler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwEQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T18:07:20.861Z"
+              "WhenOpened": "2024-06-02T18:07:20.861Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -164,7 +165,7 @@
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\MVC\\CatapultController.cs",
               "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultController.cs",
               "RelativeToolTip": "Assets\\!Scripts\\Catapult\\MVC\\CatapultController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAvwCUAAABoAAAA",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAowJ0AAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T14:17:05.306Z",
               "EditorCaption": ""
@@ -177,13 +178,14 @@
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
               "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
               "RelativeToolTip": "Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAIAwwFMAAAAkAAAA",
+              "ViewState": "AQIAAHcAAAAAAAAAAAA9wJ0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:19:46.732Z"
+              "WhenOpened": "2024-06-01T16:19:46.732Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Swing_Base.cs",
               "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Carnival\\Swing_Base.cs",
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Carnival\\Swing_Base.cs",
@@ -195,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Hittable.cs",
               "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Carnival\\Hittable\\Hittable.cs",
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Carnival\\Hittable\\Hittable.cs",

@@ -65,4 +65,6 @@ public class ProjectilePooler : IPoolObject<Projectile>
         obj.transform.TryGetComponent<Rigidbody>(out rb);
         rb.velocity = Vector3.zero;
     }
+
+    public void ClearQueue() => queue.Clear();
 }

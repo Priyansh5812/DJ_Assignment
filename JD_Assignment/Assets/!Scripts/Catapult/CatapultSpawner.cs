@@ -9,6 +9,7 @@ public class CatapultSpawner : MonoBehaviour
     [SerializeField] private Projectile projectilePrefab;
     void Start()
     {
+        Debug.Log("Start EXE");
         SpawnCatapult();
     }
 	
