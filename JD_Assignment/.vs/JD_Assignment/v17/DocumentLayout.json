@@ -1,54 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\",
+  "WorkspaceRootPath": "C:\\UnityProjects\\repos\\DJ_Assignment\\JD_Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\mvc\\catapultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\mvc\\catapultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|d:\\learn\\repos\\dj_assignment\\jd_assignment\\assets\\!scripts\\catapult\\mvc\\catapultview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|c:\\unityprojects\\repos\\dj_assignment\\jd_assignment\\assets\\!scripts\\catapult\\mvc\\catapultview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\mvc\\catapultview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\projectilepooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\projectilepooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\catapultspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\catapultspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\carnival\\swingdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\carnival\\swingdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\ui\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\ui\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\carnival\\hittable\\hittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\carnival\\hittable\\hittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\carnival\\swing_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\carnival\\swing_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\mvc\\catapultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\mvc\\catapultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\utils\\scenemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\utils\\scenemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\assets\\!scripts\\catapult\\projectile\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869652A0-C0AE-D7D1-8F33-EC5A0A6EB77A}|Assembly-CSharp.csproj|solutionrelative:assets\\!scripts\\catapult\\projectile\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,154 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainMenu.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\UI\\MainMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\UI\\MainMenu.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\UI\\MainMenu.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\UI\\MainMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T00:05:41.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SceneManagement.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Utils\\SceneManagement.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\Utils\\SceneManagement.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Utils\\SceneManagement.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\Utils\\SceneManagement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T06:44:12.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CatapultSpawner.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\CatapultSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\CatapultSpawner.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\CatapultSpawner.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\Catapult\\CatapultSpawner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T11:59:01.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SwingDriver.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Carnival\\SwingDriver.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\Carnival\\SwingDriver.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Carnival\\SwingDriver.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\Carnival\\SwingDriver.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwA0AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T13:02:58.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScoreManager.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\UI\\ScoreManager.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\UI\\ScoreManager.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\UI\\ScoreManager.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\UI\\ScoreManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T21:19:05.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CatapultModel.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultModel.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\MVC\\CatapultModel.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultModel.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\Catapult\\MVC\\CatapultModel.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwC4AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:01:22.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProjectilePooler.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\ProjectilePooler.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\ProjectilePooler.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\ProjectilePooler.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\Catapult\\ProjectilePooler.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAcwEQAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T18:07:20.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Projectile.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\Projectile\\Projectile.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\Projectile\\Projectile.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\Projectile\\Projectile.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\Catapult\\Projectile\\Projectile.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T14:18:21.425Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CatapultController.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultController.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\MVC\\CatapultController.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultController.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\Catapult\\MVC\\CatapultController.cs",
-              "ViewState": "AQIAAIUAAAAAAAAAAAAowJ0AAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T14:17:05.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CatapultView.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
               "RelativeDocumentMoniker": "Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
+              "ToolTip": "C:\\UnityProjects\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
               "RelativeToolTip": "Assets\\!Scripts\\Catapult\\MVC\\CatapultView.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAA9wJ0AAAAIAAAA",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAkwGwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:19:46.732Z",
+              "WhenOpened": "2024-09-21T09:45:34.814Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Swing_Base.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Carnival\\Swing_Base.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\Carnival\\Swing_Base.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Carnival\\Swing_Base.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\Carnival\\Swing_Base.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T13:03:11.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Hittable.cs",
-              "DocumentMoniker": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Carnival\\Hittable\\Hittable.cs",
-              "RelativeDocumentMoniker": "Assets\\!Scripts\\Carnival\\Hittable\\Hittable.cs",
-              "ToolTip": "D:\\Learn\\repos\\DJ_Assignment\\JD_Assignment\\Assets\\!Scripts\\Carnival\\Hittable\\Hittable.cs",
-              "RelativeToolTip": "Assets\\!Scripts\\Carnival\\Hittable\\Hittable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T13:07:19.83Z"
             }
           ]
         }
